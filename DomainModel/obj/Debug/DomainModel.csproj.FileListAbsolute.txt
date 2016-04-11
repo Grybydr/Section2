@@ -1,0 +1,5 @@
+c:\users\miraç aknar\documents\visual studio 2015\Projects\Sova\DomainModel\bin\Debug\DomainModel.dll
+c:\users\miraç aknar\documents\visual studio 2015\Projects\Sova\DomainModel\bin\Debug\DomainModel.pdb
+c:\users\miraç aknar\documents\visual studio 2015\Projects\Sova\DomainModel\obj\Debug\DomainModel.csprojResolveAssemblyReference.cache
+c:\users\miraç aknar\documents\visual studio 2015\Projects\Sova\DomainModel\obj\Debug\DomainModel.dll
+c:\users\miraç aknar\documents\visual studio 2015\Projects\Sova\DomainModel\obj\Debug\DomainModel.pdb
