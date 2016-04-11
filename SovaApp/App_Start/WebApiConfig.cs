@@ -16,7 +16,7 @@ namespace SovaApp
 
             config.Routes.MapHttpRoute(
                 name: "HistoryApi",
-                routeTemplate: "api/History/{id}",
+                routeTemplate: "api/history/{id}",
                 defaults: new { controller = "History",id = RouteParameter.Optional }
             );
         }

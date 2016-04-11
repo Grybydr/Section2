@@ -10,6 +10,8 @@ namespace MySqlDatabase
 {
     public class MySqlRepository
     {
+      
+
 
         // Test Methods
         public IEnumerable<User> GetUsers()
