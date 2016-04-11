@@ -14,6 +14,7 @@ namespace MySqlDatabase
         // Test Methods
         public IEnumerable<User> GetUsers()
         {
+
             using(var db = new SovaContext())
             {
                 return db.Users.Take(8).ToList();
@@ -26,7 +27,7 @@ namespace MySqlDatabase
         {
             using (var db = new SovaContext())
             {
-                return db.Posts.Include("User").Include("Comment").Take(8).ToList();
+                return db.Posts.Include("User").Take(8).ToList();
                 
                // return db.Posts.Take(8).ToList();
             }
@@ -82,7 +83,7 @@ namespace MySqlDatabase
         {
             using (var db = new SovaContext())
             {
-                db.Marks.Add(new Mark(0,postid, note));
+                db.Marks.Add(new Mark(6,postid, note));
                 db.SaveChanges();
             }
         }
