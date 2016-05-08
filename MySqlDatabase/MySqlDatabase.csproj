@@ -54,6 +54,10 @@
     <Compile Include="SovaContext.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\DataAccessLayer\MySqlDatabaseInterfaces.csproj">
+      <Project>{5bddc602-8429-4918-a1ae-109b1cefb268}</Project>
+      <Name>MySqlDatabaseInterfaces</Name>
+    </ProjectReference>
     <ProjectReference Include="..\DomainModel\DomainModel.csproj">
       <Project>{04827537-d404-457f-8f3b-cfad24504640}</Project>
       <Name>DomainModel</Name>

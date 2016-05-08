@@ -14,3 +14,57 @@ c:\users\miraç aknar\documents\visual studio 2015\Projects\Sova\ConsoleApplicat
 c:\users\miraç aknar\documents\visual studio 2015\Projects\Sova\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
 c:\users\miraç aknar\documents\visual studio 2015\Projects\Sova\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 c:\users\miraç aknar\documents\visual studio 2015\Projects\Sova\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Güray\Desktop\Sova\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Güray\Desktop\Sova\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Güray\Desktop\Sova\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Güray\Desktop\Sova\ConsoleApplication1\bin\Debug\DomainModel.dll
+C:\Users\Güray\Desktop\Sova\ConsoleApplication1\bin\Debug\EntityFramework.dll
+C:\Users\Güray\Desktop\Sova\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Güray\Desktop\Sova\ConsoleApplication1\bin\Debug\MySql.Data.dll
+C:\Users\Güray\Desktop\Sova\ConsoleApplication1\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Güray\Desktop\Sova\ConsoleApplication1\bin\Debug\MySqlDatabase.dll
+C:\Users\Güray\Desktop\Sova\ConsoleApplication1\bin\Debug\DomainModel.pdb
+C:\Users\Güray\Desktop\Sova\ConsoleApplication1\bin\Debug\MySqlDatabase.pdb
+C:\Users\Güray\Desktop\Sova\ConsoleApplication1\bin\Debug\EntityFramework.xml
+C:\Users\Güray\Desktop\Sova\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Güray\Desktop\Sova\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Güray\Desktop\Sova\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Güray\Desktop\Sova\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Güray\Desktop\Sova\ConsoleApplication1\bin\Debug\DataAccessLayer.dll
+C:\Users\Güray\Desktop\Sova\ConsoleApplication1\bin\Debug\DataAccessLayer.pdb
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\ConsoleApplication1\bin\Debug\DomainModel.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\ConsoleApplication1\bin\Debug\EntityFramework.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\ConsoleApplication1\bin\Debug\MySql.Data.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\ConsoleApplication1\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\ConsoleApplication1\bin\Debug\MySqlDatabase.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\ConsoleApplication1\bin\Debug\DataAccessLayer.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\ConsoleApplication1\bin\Debug\DomainModel.pdb
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\ConsoleApplication1\bin\Debug\MySqlDatabase.pdb
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\ConsoleApplication1\bin\Debug\EntityFramework.xml
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\ConsoleApplication1\bin\Debug\DataAccessLayer.pdb
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Miraç Aknar\Desktop\Sova\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Miraç Aknar\Desktop\Sova\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Miraç Aknar\Desktop\Sova\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Miraç Aknar\Desktop\Sova\ConsoleApplication1\bin\Debug\DomainModel.dll
+C:\Users\Miraç Aknar\Desktop\Sova\ConsoleApplication1\bin\Debug\EntityFramework.dll
+C:\Users\Miraç Aknar\Desktop\Sova\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Miraç Aknar\Desktop\Sova\ConsoleApplication1\bin\Debug\MySql.Data.dll
+C:\Users\Miraç Aknar\Desktop\Sova\ConsoleApplication1\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Miraç Aknar\Desktop\Sova\ConsoleApplication1\bin\Debug\MySqlDatabase.dll
+C:\Users\Miraç Aknar\Desktop\Sova\ConsoleApplication1\bin\Debug\DataAccessLayer.dll
+C:\Users\Miraç Aknar\Desktop\Sova\ConsoleApplication1\bin\Debug\DomainModel.pdb
+C:\Users\Miraç Aknar\Desktop\Sova\ConsoleApplication1\bin\Debug\MySqlDatabase.pdb
+C:\Users\Miraç Aknar\Desktop\Sova\ConsoleApplication1\bin\Debug\EntityFramework.xml
+C:\Users\Miraç Aknar\Desktop\Sova\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Miraç Aknar\Desktop\Sova\ConsoleApplication1\bin\Debug\DataAccessLayer.pdb
+C:\Users\Miraç Aknar\Desktop\Sova\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Miraç Aknar\Desktop\Sova\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Miraç Aknar\Desktop\Sova\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -5,74 +5,75 @@ using System.Text;
 using System.Threading.Tasks;
 using DomainModel;
 using System.Data.Entity;
+using DataAccessLayer;
 
 namespace MySqlDatabase
 {
-    public class MySqlRepository
+    public class MySqlRepository :IRepository
     {
-      
 
-
-        // Test Methods
-        public IEnumerable<User> GetUsers()
-        {
-
-            using(var db = new SovaContext())
-            {
-                return db.Users.Take(8).ToList();
-            }
-
-            
-        }
-
-        public IEnumerable<Post> GetPosts()
+     
+        public WordIdf GetIDFOfWord(string word)
         {
             using (var db = new SovaContext())
             {
-                return db.Posts.Include("User").Take(8).ToList();
-                
-               // return db.Posts.Take(8).ToList();
+                return db.WordIdfs.Where(w => w.Word == word).First();
             }
         }
 
-        public IEnumerable<Comment> GetComments()
+        public List<WordTf> GetTFsOfWord(int wordId)
         {
             using (var db = new SovaContext())
             {
-                return db.Comments.Include("User").Take(8).ToList();
+                return db.WordTfs.Where(w => w.WordId == wordId).ToList();
             }
         }
 
 
-        //Search Methods
-
-        public List<Post> SearchInTitle(string statement)
+        public int GetNumberOfMarkedPosts()
         {
             using (var db = new SovaContext())
             {
-                return db.Posts.Where(p => p.Title.Contains(statement)).ToList();
-
+                return db.Marks.Count();
             }
         }
 
-        public List<Post> SearchBody(string statement)
+        public int GetNumberOfCommentsOfAPost(int postId)
         {
             using (var db = new SovaContext())
             {
-                return db.Posts.Where(p => p.Body.Contains(statement)).ToList();
-
+                return db.Comments.Where(c => c.PostId == postId).Count();
             }
         }
+
+    
+
+        public int GetNumberOfHistories()
+        {
+            using (var db = new SovaContext())
+            {
+                return db.Histories.Count();
+            }
+        }
+
+
+
         
+
+
 
 
         // Comment Methods
 
-        public List<Comment> GetCommentOfAPost(int postid)
+        public List<Comment> GetCommentsOfAPost(int postid,int limit,int offset)
         {
             using (var db = new SovaContext())
             {
-                return db.Comments.Where(u => u.PostId == postid).ToList();
+                return db.Comments.Include("User").Where(p => p.PostId == postid)
+                    .OrderBy(c => c.Id)
+                    .Skip(offset)
+                    .Take(limit)
+                    .ToList(); ;
                 
             }
         }
@@ -81,20 +82,20 @@ namespace MySqlDatabase
 
 
         // Mark Methods
-        public void Mark(int postid, string note )
+        public void Mark(Mark mark )
         {
             using (var db = new SovaContext())
             {
-                db.Marks.Add(new Mark(6,postid, note));
+                db.Marks.Add(mark);
                 db.SaveChanges();
             }
         }
 
-        public void Unmark(int id)
+        public void Unmark(int markId)
         {
             using (var db = new SovaContext())
             {
-                db.Marks.RemoveRange(db.Marks.Where(x => x.Id == id));
+                db.Marks.RemoveRange(db.Marks.Where(x => x.Id == markId));
                 db.SaveChanges();
             }
         }
@@ -109,39 +110,59 @@ namespace MySqlDatabase
             }
         }
 
-        public List<Post> GetMarkedPosts()
+        
+
+        public List<Mark> GetMarkedPosts(int limit, int offset)
         {
             using (var db = new SovaContext())
             {
-                List<Post> markedPosts = new List<Post>();
-                List<int> postIds = new List<int>();
-                postIds = db.Marks.Select(u => u.PostId).ToList();
 
-                foreach(int id in postIds)
-                {
-                    markedPosts.Add(db.Posts.Where(p => p.Id == id).First());
-                }
-
-                return markedPosts;
+                return db.Marks.Include("Post").OrderBy(m => m.Id)
+                    .Skip(offset)
+                    .Take(limit)
+                    .ToList();
             }
-
         }
+        
+        // User Methods
+
+        public User GetUserById(int id)
+        {
+            using (var db = new SovaContext())
+            {
+                return db.Users.Where(u => u.Id == id).First();
+
+            }
+        }
+
+       
+
 
 
 
 
 
         // History Methods
-        public void AddToHistory(int id, string statement)
+        public void AddToHistory(History history)
         {
             using(var db = new SovaContext())
             {
-                db.Histories.Add(new History(id, statement, DateTime.Now));
-                db.SaveChanges();
+                history.Id = db.Histories.Max(c => c.Id) + 1;
+                db.Histories.Add(history);
+                db.SaveChanges();                                               
             }
         }
 
-        public void DeleteFromHistory(int id)
+        public History GetAHistory(int? id)
+        {
+            using (var db = new SovaContext())
+            {
+                return db.Histories.FirstOrDefault(u => u.Id == id);
+                
+            }
+        }
+
+        public void DeleteFromHistory(int? id)
         {
             using(var db = new SovaContext())
             {
@@ -160,24 +181,69 @@ namespace MySqlDatabase
             }
         }
 
-        public List<History> GetAllHistory()
+        public List<History> GetAllHistory(int limit, int offset)
         {
             using (var db = new SovaContext())
             {
-                List<History> history = new List<History>();
+               /* List<History> history = new List<History>();
                 var _history = db.Set<History>();
                 foreach (var historyEntity in _history)
                 {
                     history.Add(historyEntity);
                 }
+                
+                return history;*/
 
-                return history;
+                return db.Histories.OrderBy(h => h.Id)
+                    .Skip(offset)
+                    .Take(limit)
+                    .ToList();
             }
 
         }
 
+        // Post methods
+        public Post GetAPost(int postId)
+        {
+            using (var db = new SovaContext())
+            {
+                return db.Posts.Where(p => p.Id == postId).First();
 
+            }
+        }
 
+        public List<Post> GetAllRelatedPosts(int postId)
+        {
+            List<Post> posts = new List<Post>();
+            Post post = GetAPost(postId);
 
+            using (var db = new SovaContext())
+            {
+                if (GetAPost(postId).ParentId == null)
+                {
+                    posts = db.Posts.Where(p => p.ParentId == postId).ToList();
+                    posts.Add(post);
+                    posts.OrderBy(p => p.CreationDate);
+                    posts.Reverse();
+                    return posts;
+                }
+                else
+                {
+                    
+                    posts = db.Posts.Where(p => p.ParentId == post.ParentId).ToList();
+                    posts.Add(post);
+                    posts.Add(GetAPost(post.ParentId.Value));
+                    posts.OrderBy(p => p.CreationDate);
+                    posts.Reverse();
+                    return posts;
+
+                }
+                    
+                
+
+            }
+        }
     }
+
 }
+

@@ -12,15 +12,15 @@ namespace DomainModel
 
 
 
-        public int Id { get; set; }
+        public int? Id { get; set; }
         public string Statement { get; set; }
-        public DateTime SearchDate { get; set; }
+        public DateTime? SearchDate { get; set; }
 
-        public History(int _id, string _statement, DateTime _searchDate)
+        public History(string _statement)
         {
             Statement = _statement;
-            Id = _id;
-            SearchDate = _searchDate;
+            Id = 0;
+            SearchDate = DateTime.Now;
         }
 
         public History()

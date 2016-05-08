@@ -9,7 +9,6 @@ namespace DomainModel
     public class Post
     {
         public int Id { get; set; }
-        //public int Type { get; set; }
         public int PostTypeId { get; set; }
         public int? ParentId { get; set; }
         public int? AcceptedAnswerId { get; set; }
@@ -20,8 +19,9 @@ namespace DomainModel
         public string Title { get; set; }
         public string Tags { get; set; }
         public int UserId { get; set; }
-        public virtual User User { get; set; }
-        public IEnumerable<Comment> Comments { get; set; }
-        //public IEnumerable<int> PostLinks { get; set; }
+        public User User { get; set; }
+        
+        //variable for searching
+        public float rankPoint = 0;
     }
 }

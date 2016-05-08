@@ -1,23 +1,77 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net;
-using System.Net.Http;
+﻿using System.Linq;
 using System.Web.Http;
+using DataAccessLayer;
 using DomainModel;
-using MySqlDatabase;
+using SovaApp.Models;
+
 
 namespace SovaApp.Controllers
 {
-    public class HistoryController : ApiController
+    public class HistoryController : BaseApiController
     {
-        private MySqlRepository _repository = new MySqlRepository();
+      
+        private readonly IRepository _repository;
 
-        public IHttpActionResult Get()
+        public HistoryController(IRepository repository)
         {
-            var data = _repository.GetAllHistory();
-            return Ok(data);
+            this._repository = repository;
         }
 
+        [HttpGet]
+        public IHttpActionResult GetAllHistory(int page = 0, int pagesize=Util.Util.Config.DefaultPageSize)
+        {
+            var data = _repository.GetAllHistory(pagesize, page * pagesize).Select(h => ModelFactory.Map(h, Url));
+            
+            var result = GetResultWithPaging(
+                data,
+                pagesize,
+                page,
+                _repository.GetNumberOfHistories(),
+                Util.Util.Config.HistoriesRoute);
+
+            if (result == null)
+                return NotFound();
+
+            return Ok(result);
+           
+        }
+
+        [HttpGet]
+        public IHttpActionResult GetAHistory(int id)
+        {
+     
+            var historyModel = ModelFactory.Map(_repository.GetAHistory(id), Url);
+            
+            if (historyModel == null)
+                return NotFound();
+
+            return Ok(historyModel);
+        }
+
+        [HttpPost]
+        public IHttpActionResult PostAHistory(HistoryModel history)
+        {
+            var historyObject = new History {Id = history.Id, SearchDate = history.SearchDate, Statement = history.Statement};
+            _repository.AddToHistory(historyObject);
+
+            return Created(Util.Util.Config.HistoriesRoute, ModelFactory.Map(historyObject, Url));
+        }
+
+        [HttpDelete]
+        public IHttpActionResult DeleteAHistory(int id)
+        {
+            _repository.DeleteFromHistory(id);
+            return Ok();
+        }
+
+        [HttpDelete]
+        public IHttpActionResult DeleteAllHistory()
+        {
+            _repository.DeleteAllHistory();
+            return Ok();
+        }
+
+
     }
+
 }

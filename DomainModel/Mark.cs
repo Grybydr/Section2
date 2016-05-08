@@ -10,13 +10,16 @@ namespace DomainModel
     {
         public int Id { get; set; }
         public int PostId{ get; set; }
+        public Post post { get; set; }
         public string Note { get; set; }
+        
 
-        public Mark(int _id, int _postid, string _note)
+        public Mark(int _postid, string _note)
         {
-            Id = _id;
+            Id = 0;
             PostId = _postid;
             Note = _note;
+
         }
 
         public Mark()

@@ -12,12 +12,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            MySqlRepository repository = new MySqlRepository();
-            
-            foreach(var i in repository.SearchInTitle("fastest"))
-            {
-                Console.WriteLine(i.Title);
-            }
+
             
 
         }
