@@ -1,0 +1,304 @@
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\ApplicationInsights.config
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\roslyn\csc.exe
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\roslyn\vbc.exe
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\SovaApp.dll.config
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\SovaApp.dll
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\SovaApp.pdb
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\ConsoleApplication1.exe
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\DomainModel.dll
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\EntityFramework.dll
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\Microsoft.AI.Web.dll
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\MySql.Data.dll
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\MySqlDatabase.dll
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\Newtonsoft.Json.dll
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\System.Web.Helpers.dll
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\System.Web.Http.dll
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\System.Web.Mvc.dll
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\System.Web.Razor.dll
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\System.Web.Webpages.dll
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\ConsoleApplication1.pdb
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\DomainModel.pdb
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\MySqlDatabase.pdb
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\EntityFramework.xml
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\Microsoft.AI.Web.xml
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\System.Web.Razor.xml
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\System.Web.Webpages.xml
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\System.Web.Helpers.xml
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\System.Web.Mvc.xml
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\Newtonsoft.Json.xml
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\System.Web.Http.xml
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\obj\Debug\SovaApp.csprojResolveAssemblyReference.cache
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\obj\Debug\SovaApp.dll
+C:\Users\Miraç Aknar\documents\visual studio 2015\Projects\Sova\SovaApp\obj\Debug\SovaApp.pdb
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\ApplicationInsights.config
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\roslyn\csc.exe
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\roslyn\vbc.exe
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\SovaApp.dll.config
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\SovaApp.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\SovaApp.pdb
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\ConsoleApplication1.exe
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\DomainModel.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\EntityFramework.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\Microsoft.AI.Web.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\MySql.Data.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\MySqlDatabase.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\Newtonsoft.Json.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\System.Web.Helpers.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\System.Web.Http.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\System.Web.Mvc.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\System.Web.Razor.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\System.Web.Webpages.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\ConsoleApplication1.pdb
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\DomainModel.pdb
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\MySqlDatabase.pdb
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\EntityFramework.xml
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\Microsoft.AI.Web.xml
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\System.Web.Razor.xml
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\System.Web.Webpages.xml
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\System.Web.Helpers.xml
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\System.Web.Mvc.xml
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\Newtonsoft.Json.xml
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\System.Web.Http.xml
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Güray\Desktop\Sova\SovaApp\obj\Debug\SovaApp.csprojResolveAssemblyReference.cache
+C:\Users\Güray\Desktop\Sova\SovaApp\obj\Debug\SovaApp.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\obj\Debug\SovaApp.pdb
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\AutoMapper.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\AutoMapper.xml
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\DataAccessLayer.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\DataAccessLayer.pdb
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\Microsoft.Practices.Unity.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\Unity.WebApi.dll
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\Microsoft.Practices.Unity.xml
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Güray\Desktop\Sova\SovaApp\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\ApplicationInsights.config
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\roslyn\csc.exe
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\roslyn\vbc.exe
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\SovaApp.dll.config
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\SovaApp.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\SovaApp.pdb
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\AutoMapper.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\ConsoleApplication1.exe
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\DataAccessLayer.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\DomainModel.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\EntityFramework.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\Microsoft.AI.Web.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\Microsoft.Practices.Unity.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\MySql.Data.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\MySqlDatabase.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\Newtonsoft.Json.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\System.Web.Helpers.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\System.Web.Http.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\System.Web.Mvc.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\System.Web.Razor.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\System.Web.Webpages.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\Unity.WebApi.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\ConsoleApplication1.pdb
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\DataAccessLayer.pdb
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\DomainModel.pdb
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\MySqlDatabase.pdb
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\AutoMapper.xml
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\EntityFramework.xml
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\Microsoft.AI.Web.xml
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\Microsoft.Practices.Unity.xml
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\System.Web.Razor.xml
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\System.Web.Webpages.xml
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\System.Web.Helpers.xml
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\System.Web.Mvc.xml
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\Newtonsoft.Json.xml
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\System.Web.Http.xml
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\obj\Debug\SovaApp.csprojResolveAssemblyReference.cache
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\obj\Debug\SovaApp.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\SovaApp\obj\Debug\SovaApp.pdb
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\ApplicationInsights.config
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\roslyn\csc.exe
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\roslyn\vbc.exe
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\SovaApp.dll.config
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\SovaApp.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\SovaApp.pdb
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\AutoMapper.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\DataAccessLayer.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\DomainModel.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\EntityFramework.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\Microsoft.AI.Web.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\Microsoft.Practices.Unity.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\MySql.Data.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\MySqlDatabase.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\Newtonsoft.Json.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\System.Web.Helpers.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\System.Web.Http.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\System.Web.Mvc.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\System.Web.Razor.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\System.Web.Webpages.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\Unity.WebApi.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\DataAccessLayer.pdb
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\DomainModel.pdb
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\MySqlDatabase.pdb
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\AutoMapper.xml
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\EntityFramework.xml
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\Microsoft.AI.Web.xml
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\Microsoft.Practices.Unity.xml
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\System.Web.Razor.xml
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\System.Web.Webpages.xml
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\System.Web.Helpers.xml
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\System.Web.Mvc.xml
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\Newtonsoft.Json.xml
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\System.Web.Http.xml
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\obj\Debug\SovaApp.csprojResolveAssemblyReference.cache
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\obj\Debug\SovaApp.dll
+C:\Users\Miraç Aknar\Desktop\Sova\SovaApp\obj\Debug\SovaApp.pdb

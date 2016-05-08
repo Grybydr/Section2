@@ -1,0 +1,25 @@
+c:\users\miraç aknar\documents\visual studio 2015\Projects\Sova\DomainModel\bin\Debug\DomainModel.dll
+c:\users\miraç aknar\documents\visual studio 2015\Projects\Sova\DomainModel\bin\Debug\DomainModel.pdb
+c:\users\miraç aknar\documents\visual studio 2015\Projects\Sova\DomainModel\obj\Debug\DomainModel.csprojResolveAssemblyReference.cache
+c:\users\miraç aknar\documents\visual studio 2015\Projects\Sova\DomainModel\obj\Debug\DomainModel.dll
+c:\users\miraç aknar\documents\visual studio 2015\Projects\Sova\DomainModel\obj\Debug\DomainModel.pdb
+C:\Users\Güray\Desktop\Sova\DomainModel\bin\Debug\DomainModel.dll
+C:\Users\Güray\Desktop\Sova\DomainModel\bin\Debug\DomainModel.pdb
+C:\Users\Güray\Desktop\Sova\DomainModel\obj\Debug\DomainModel.csprojResolveAssemblyReference.cache
+C:\Users\Güray\Desktop\Sova\DomainModel\obj\Debug\DomainModel.dll
+C:\Users\Güray\Desktop\Sova\DomainModel\obj\Debug\DomainModel.pdb
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\DomainModel\bin\Debug\DomainModel.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\DomainModel\bin\Debug\DomainModel.pdb
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\DomainModel\obj\Debug\DomainModel.csprojResolveAssemblyReference.cache
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\DomainModel\obj\Debug\DomainModel.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\DomainModel\obj\Debug\DomainModel.pdb
+C:\Users\Miraç Aknar\Desktop\Sova\DomainModel\bin\Debug\DomainModel.dll
+C:\Users\Miraç Aknar\Desktop\Sova\DomainModel\bin\Debug\DomainModel.pdb
+C:\Users\Miraç Aknar\Desktop\Sova\DomainModel\obj\Debug\DomainModel.csprojResolveAssemblyReference.cache
+C:\Users\Miraç Aknar\Desktop\Sova\DomainModel\obj\Debug\DomainModel.dll
+C:\Users\Miraç Aknar\Desktop\Sova\DomainModel\obj\Debug\DomainModel.pdb
+C:\Users\Güray\Desktop\RUC COURSES\RAWDATA\pROJE\Sova\DomainModel\bin\Debug\DomainModel.dll
+C:\Users\Güray\Desktop\RUC COURSES\RAWDATA\pROJE\Sova\DomainModel\bin\Debug\DomainModel.pdb
+C:\Users\Güray\Desktop\RUC COURSES\RAWDATA\pROJE\Sova\DomainModel\obj\Debug\DomainModel.csprojResolveAssemblyReference.cache
+C:\Users\Güray\Desktop\RUC COURSES\RAWDATA\pROJE\Sova\DomainModel\obj\Debug\DomainModel.dll
+C:\Users\Güray\Desktop\RUC COURSES\RAWDATA\pROJE\Sova\DomainModel\obj\Debug\DomainModel.pdb

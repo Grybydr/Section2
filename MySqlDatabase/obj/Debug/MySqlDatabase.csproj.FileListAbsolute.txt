@@ -1,0 +1,68 @@
+c:\users\miraç aknar\documents\visual studio 2015\Projects\Sova\MySqlDatabase\bin\Debug\MySqlDatabase.dll.config
+c:\users\miraç aknar\documents\visual studio 2015\Projects\Sova\MySqlDatabase\bin\Debug\MySqlDatabase.dll
+c:\users\miraç aknar\documents\visual studio 2015\Projects\Sova\MySqlDatabase\bin\Debug\MySqlDatabase.pdb
+c:\users\miraç aknar\documents\visual studio 2015\Projects\Sova\MySqlDatabase\bin\Debug\DomainModel.dll
+c:\users\miraç aknar\documents\visual studio 2015\Projects\Sova\MySqlDatabase\bin\Debug\EntityFramework.dll
+c:\users\miraç aknar\documents\visual studio 2015\Projects\Sova\MySqlDatabase\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\miraç aknar\documents\visual studio 2015\Projects\Sova\MySqlDatabase\bin\Debug\DomainModel.pdb
+c:\users\miraç aknar\documents\visual studio 2015\Projects\Sova\MySqlDatabase\bin\Debug\EntityFramework.xml
+c:\users\miraç aknar\documents\visual studio 2015\Projects\Sova\MySqlDatabase\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\miraç aknar\documents\visual studio 2015\Projects\Sova\MySqlDatabase\obj\Debug\MySqlDatabase.csprojResolveAssemblyReference.cache
+c:\users\miraç aknar\documents\visual studio 2015\Projects\Sova\MySqlDatabase\obj\Debug\MySqlDatabase.dll
+c:\users\miraç aknar\documents\visual studio 2015\Projects\Sova\MySqlDatabase\obj\Debug\MySqlDatabase.pdb
+C:\Users\Güray\Desktop\Sova\MySqlDatabase\bin\Debug\MySqlDatabase.dll.config
+C:\Users\Güray\Desktop\Sova\MySqlDatabase\bin\Debug\MySqlDatabase.dll
+C:\Users\Güray\Desktop\Sova\MySqlDatabase\bin\Debug\MySqlDatabase.pdb
+C:\Users\Güray\Desktop\Sova\MySqlDatabase\bin\Debug\DomainModel.dll
+C:\Users\Güray\Desktop\Sova\MySqlDatabase\bin\Debug\EntityFramework.dll
+C:\Users\Güray\Desktop\Sova\MySqlDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Güray\Desktop\Sova\MySqlDatabase\bin\Debug\DomainModel.pdb
+C:\Users\Güray\Desktop\Sova\MySqlDatabase\bin\Debug\EntityFramework.xml
+C:\Users\Güray\Desktop\Sova\MySqlDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Güray\Desktop\Sova\MySqlDatabase\obj\Debug\MySqlDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Güray\Desktop\Sova\MySqlDatabase\obj\Debug\MySqlDatabase.dll
+C:\Users\Güray\Desktop\Sova\MySqlDatabase\obj\Debug\MySqlDatabase.pdb
+C:\Users\Güray\Desktop\Sova\MySqlDatabase\bin\Debug\DataAccessLayer.dll
+C:\Users\Güray\Desktop\Sova\MySqlDatabase\bin\Debug\DataAccessLayer.pdb
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\MySqlDatabase\bin\Debug\MySqlDatabase.dll.config
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\MySqlDatabase\bin\Debug\MySqlDatabase.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\MySqlDatabase\bin\Debug\MySqlDatabase.pdb
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\MySqlDatabase\bin\Debug\DataAccessLayer.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\MySqlDatabase\bin\Debug\DomainModel.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\MySqlDatabase\bin\Debug\EntityFramework.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\MySqlDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\MySqlDatabase\bin\Debug\DataAccessLayer.pdb
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\MySqlDatabase\bin\Debug\DomainModel.pdb
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\MySqlDatabase\bin\Debug\EntityFramework.xml
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\MySqlDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\MySqlDatabase\obj\Debug\MySqlDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\MySqlDatabase\obj\Debug\MySqlDatabase.dll
+C:\Users\Güray\Documents\Visual Studio 2015\Projects\Sova\MySqlDatabase\obj\Debug\MySqlDatabase.pdb
+C:\Users\Miraç Aknar\Desktop\Sova\MySqlDatabase\bin\Debug\MySqlDatabase.dll.config
+C:\Users\Miraç Aknar\Desktop\Sova\MySqlDatabase\bin\Debug\MySqlDatabase.dll
+C:\Users\Miraç Aknar\Desktop\Sova\MySqlDatabase\bin\Debug\MySqlDatabase.pdb
+C:\Users\Miraç Aknar\Desktop\Sova\MySqlDatabase\bin\Debug\DataAccessLayer.dll
+C:\Users\Miraç Aknar\Desktop\Sova\MySqlDatabase\bin\Debug\DomainModel.dll
+C:\Users\Miraç Aknar\Desktop\Sova\MySqlDatabase\bin\Debug\EntityFramework.dll
+C:\Users\Miraç Aknar\Desktop\Sova\MySqlDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Miraç Aknar\Desktop\Sova\MySqlDatabase\bin\Debug\DataAccessLayer.pdb
+C:\Users\Miraç Aknar\Desktop\Sova\MySqlDatabase\bin\Debug\DomainModel.pdb
+C:\Users\Miraç Aknar\Desktop\Sova\MySqlDatabase\bin\Debug\EntityFramework.xml
+C:\Users\Miraç Aknar\Desktop\Sova\MySqlDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Miraç Aknar\Desktop\Sova\MySqlDatabase\obj\Debug\MySqlDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Miraç Aknar\Desktop\Sova\MySqlDatabase\obj\Debug\MySqlDatabase.dll
+C:\Users\Miraç Aknar\Desktop\Sova\MySqlDatabase\obj\Debug\MySqlDatabase.pdb
+C:\Users\Güray\Desktop\RUC COURSES\RAWDATA\pROJE\Sova\MySqlDatabase\bin\Debug\MySqlDatabase.dll.config
+C:\Users\Güray\Desktop\RUC COURSES\RAWDATA\pROJE\Sova\MySqlDatabase\bin\Debug\MySqlDatabase.dll
+C:\Users\Güray\Desktop\RUC COURSES\RAWDATA\pROJE\Sova\MySqlDatabase\bin\Debug\MySqlDatabase.pdb
+C:\Users\Güray\Desktop\RUC COURSES\RAWDATA\pROJE\Sova\MySqlDatabase\bin\Debug\DataAccessLayer.dll
+C:\Users\Güray\Desktop\RUC COURSES\RAWDATA\pROJE\Sova\MySqlDatabase\bin\Debug\DomainModel.dll
+C:\Users\Güray\Desktop\RUC COURSES\RAWDATA\pROJE\Sova\MySqlDatabase\bin\Debug\EntityFramework.dll
+C:\Users\Güray\Desktop\RUC COURSES\RAWDATA\pROJE\Sova\MySqlDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Güray\Desktop\RUC COURSES\RAWDATA\pROJE\Sova\MySqlDatabase\bin\Debug\DataAccessLayer.pdb
+C:\Users\Güray\Desktop\RUC COURSES\RAWDATA\pROJE\Sova\MySqlDatabase\bin\Debug\DomainModel.pdb
+C:\Users\Güray\Desktop\RUC COURSES\RAWDATA\pROJE\Sova\MySqlDatabase\bin\Debug\EntityFramework.xml
+C:\Users\Güray\Desktop\RUC COURSES\RAWDATA\pROJE\Sova\MySqlDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Güray\Desktop\RUC COURSES\RAWDATA\pROJE\Sova\MySqlDatabase\obj\Debug\MySqlDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Güray\Desktop\RUC COURSES\RAWDATA\pROJE\Sova\MySqlDatabase\obj\Debug\MySqlDatabase.dll
+C:\Users\Güray\Desktop\RUC COURSES\RAWDATA\pROJE\Sova\MySqlDatabase\obj\Debug\MySqlDatabase.pdb
